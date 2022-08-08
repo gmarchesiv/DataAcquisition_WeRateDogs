@@ -1,4 +1,6 @@
-This is my project Data Wrangling for the Udacity's Data Analysis Nano Degree Program. 
+# WeRateDogs
+
+This is my project on Data Wrangling for the Udacity's Data Analysis Nano Degree Program. It's an analyisis of nearly 3000 tweets from the WeRateDogs user account. 
 
 The project is divided in two sections: 
 
