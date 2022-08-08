@@ -9,4 +9,4 @@ There are three separate data sources: the provided twitter-archive-enhanced-2.c
 Each source is analyzed, cleaned and transformed necessary to prepare for the next phase. The relevant features are merged and exported into a final dataframe. 
 
 - Data Analysis: 
-Using the exported dataframe, the analysis seeks to answer if the dog ratings follow any particular patter or are mostly random and fun. 
+Using the exported dataframe, the analysis seeks to answer if the dog ratings follow any particular pattern or are mostly random and fun. 
